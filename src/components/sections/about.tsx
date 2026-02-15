@@ -54,7 +54,7 @@ export default function About() {
         transition={{ duration: 0.5 }}
       >
         <Image
-          src="/img/about.png"
+          src="/img/Pushing.jpg"
           alt="About Image"
           width={500}
           height={500}

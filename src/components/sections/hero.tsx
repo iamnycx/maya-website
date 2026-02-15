@@ -13,11 +13,11 @@ export default function Hero() {
         transition={{ duration: 0.5 }}
       >
         <Image
-          src="/img/Dr. Maya Reynolds.png"
+          src="/img/Finding Inner Peace Through Meditation.jpg"
           alt="Hero Image"
           width={400}
           height={500}
-          className="w-lg rounded-t-full"
+          className="w-lg rounded-t-full h-[85vh] object-cover"
         />
       </motion.div>
       <div className="flex h-screen flex-col justify-center space-y-12 text-center">

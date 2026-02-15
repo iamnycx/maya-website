@@ -8,19 +8,19 @@ const specialties = [
     title: "Anxiety & Panic",
     description:
       "Therapy for chronic worry, racing thoughts, panic attacks, and physical tension. We'll work together to understand what's driving your anxiety and develop practical tools to help you feel calmer, safer, and more present in your daily life.",
-    image: "/img/specialties-1.webp",
+    image: "/img/panic.jpg",
   },
   {
     title: "Trauma & EMDR",
     description:
       "Compassionate, evidence-based treatment for both recent traumatic events and long-standing patterns rooted in earlier experiences. Using EMDR and body-centered approaches, we'll work at a pace that prioritizes your safety and helps you feel more regulated and grounded.",
-    image: "/img/specialties-2.jpg",
+    image: "/img/trauma.jpg",
   },
   {
     title: "Burnout & Stress",
     description:
       "Support for professionals, entrepreneurs, and creatives who feel depleted after years of high output. Therapy focused on reconnecting with yourself, understanding what's sustainable, and building rhythms that support rather than drain you.",
-    image: "/img/specialties-3.jpg",
+    image: "/img/burnout.jpg",
   },
 ];
 

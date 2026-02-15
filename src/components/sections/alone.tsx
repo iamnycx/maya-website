@@ -13,7 +13,7 @@ export default function Alone() {
         transition={{ duration: 0.5 }}
       >
         <Image
-          src="/img/alone.png"
+          src="/img/alone.jpg"
           alt="alone"
           className="w-full"
           width={500}

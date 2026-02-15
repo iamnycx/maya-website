@@ -47,7 +47,7 @@ export default function FAQ() {
         className="flex items-center justify-center"
       >
         <Image
-          src="/img/hero.jpg"
+          src="/img/faq.jpg"
           alt="FAQ"
           width={500}
           height={500}
@@ -94,7 +94,7 @@ export default function FAQ() {
                     className="overflow-hidden"
                   >
                     <div className="pb-8">
-                      <p className="text-foreground pr-8 border-foreground text-xl">
+                      <p className="text-foreground border-foreground pr-8 text-xl">
                         {faq.answer}
                       </p>
                     </div>

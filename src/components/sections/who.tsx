@@ -52,7 +52,7 @@ export default function Who() {
           className="h-fit w-2/4 rounded-t-full"
         />
         <Image
-          src="/img/hero.jpg"
+          src="/img/hand.jpg"
           width={500}
           height={500}
           alt="Hero image"
